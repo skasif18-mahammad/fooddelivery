@@ -1,0 +1,44 @@
+[
+  {
+    "id": "usr-1",
+    "phone": "9848022338",
+    "name": "Ananya Sharma",
+    "email": "ananya.sharma@gmail.com",
+    "address": "Flat 402, Green Meadows, Jubilee Hills Road No 36",
+    "city": "Hyderabad",
+    "pincode": "500033",
+    "notes": "Ring doorbell twice, leave with security if not reachable",
+    "createdAt": "2026-09-19T05:00:00.000Z"
+  },
+  {
+    "id": "usr-2",
+    "phone": "9876543210",
+    "name": "Rajesh Varma",
+    "email": "rajesh.varma@gmail.com",
+    "address": "Villa 18, Palm Meadows, Whitefield",
+    "city": "Bengaluru",
+    "pincode": "560066",
+    "notes": "Call upon arrival",
+    "createdAt": "2026-09-19T05:15:00.000Z"
+  },
+  {
+    "id": "usr-1789794412948",
+    "phone": "9998887776",
+    "name": "Nikhil Kumar",
+    "email": "nikhil@gmail.com",
+    "address": "Plot 45, Madhapur",
+    "city": "Hyderabad",
+    "pincode": "500081",
+    "createdAt": "2026-09-19T05:06:52.948Z"
+  },
+  {
+    "id": "usr-1790524628491",
+    "phone": "9346837260",
+    "name": "sankar",
+    "email": "niceseva@gmail.com",
+    "address": "pdtr",
+    "city": "pdtr",
+    "pincode": "518501",
+    "createdAt": "2026-09-27T15:57:08.491Z"
+  }
+]

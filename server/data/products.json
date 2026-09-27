@@ -1,0 +1,222 @@
+[
+  {
+    "id": "mango-01",
+    "name": "Banganapalli Sweet Mangoes",
+    "category": "mangoes",
+    "tagline": "Naturally Ripened, Fiberless & Extra Sweet",
+    "rating": 4.9,
+    "reviewCount": 184,
+    "badge": "Seasonal Bestseller",
+    "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=800&auto=format&fit=crop&q=80",
+    "description": "Handpicked from our partner orchards in Andhra Pradesh. Naturally tree-ripened without harmful carbide chemicals. Golden skin, succulent fiberless pulp, and heavenly sweet taste.",
+    "options": [
+      { "size": "3 kg Box", "price": 499, "originalPrice": 650, "inStock": true },
+      { "size": "5 kg Family Crate", "price": 799, "originalPrice": 1050, "inStock": true },
+      { "size": "10 kg Bulk Pack", "price": 1499, "originalPrice": 1999, "inStock": true }
+    ],
+    "highlights": ["100% Chemical-Free Ripening", "Export Quality Harvest", "Delivered in Cushioned Eco-Boxes"],
+    "origin": "Kurnool, Andhra Pradesh",
+    "shelfLife": "5 to 7 days at room temperature"
+  },
+  {
+    "id": "mango-02",
+    "name": "Ratnagiri Alphonso (Hapus)",
+    "category": "mangoes",
+    "tagline": "The Undisputed King of Mangoes",
+    "rating": 5.0,
+    "reviewCount": 260,
+    "badge": "Royal Grade",
+    "image": "https://images.unsplash.com/photo-1591073113125-e46713c829ed?w=800&auto=format&fit=crop&q=80",
+    "description": "Pure GI-tagged Ratnagiri Alphonso with a captivating rich saffron aroma. Creamy, buttery texture that melts in the mouth. Guaranteed authentic pedigree.",
+    "options": [
+      { "size": "1 Dozen (12 pcs)", "price": 899, "originalPrice": 1200, "inStock": true },
+      { "size": "2 Dozens Box", "price": 1699, "originalPrice": 2299, "inStock": true }
+    ],
+    "highlights": ["Authentic GI Tagged", "Zero Calcium Carbide", "Hand-Inspected for Sweetness"],
+    "origin": "Ratnagiri, Maharashtra",
+    "shelfLife": "4 to 6 days"
+  },
+  {
+    "id": "mango-03",
+    "name": "Gir Kesar Mangoes",
+    "category": "mangoes",
+    "tagline": "Queen of Mangoes - Vibrant Saffron Pulp",
+    "rating": 4.8,
+    "reviewCount": 142,
+    "badge": "Customer Favorite",
+    "image": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?w=800&auto=format&fit=crop&q=80",
+    "description": "Celebrated for its intense aroma and deep orange saffron pulp. Excellent sweetness with a unique subtle tang that refreshes the palate.",
+    "options": [
+      { "size": "3 kg Box", "price": 549, "originalPrice": 720, "inStock": true },
+      { "size": "5 kg Crate", "price": 879, "originalPrice": 1150, "inStock": true }
+    ],
+    "highlights": ["Rich in Vitamins A & C", "High Brix Sweetness Index", "Naturally Ripened"],
+    "origin": "Talala Gir, Gujarat",
+    "shelfLife": "6 to 8 days"
+  },
+  {
+    "id": "mango-04",
+    "name": "Dasheri Aromatic Sweet Mangoes",
+    "category": "mangoes",
+    "tagline": "Silky Sweet Nectar Pulp",
+    "rating": 4.7,
+    "reviewCount": 98,
+    "badge": "Limited Fresh Batch",
+    "image": "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?w=800&auto=format&fit=crop&q=80",
+    "description": "Known as the dessert mango of India. Tender, thin peel with an exceptionally sweet elongated pulp that drips with flavorful juice.",
+    "options": [
+      { "size": "3 kg Box", "price": 449, "originalPrice": 599, "inStock": true },
+      { "size": "5 kg Box", "price": 699, "originalPrice": 950, "inStock": true }
+    ],
+    "highlights": ["Traditional North Indian Heritage", "Sweet Fragrance", "Perfect for Mango Shakes"],
+    "origin": "Malihabad, Uttar Pradesh",
+    "shelfLife": "5 days"
+  },
+  {
+    "id": "pickle-01",
+    "name": "Grandma's Andhra Avakaya Mango Pickle",
+    "category": "pickles",
+    "tagline": "Authentic Sun-Cured Raw Mango Pickle",
+    "rating": 4.9,
+    "reviewCount": 312,
+    "badge": "Signature Recipe",
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop&q=80",
+    "description": "Crafted following a 60-year-old traditional Andhra recipe. Chunky raw sour mango pieces infused with fresh ground mustard seeds (aava pindi), Guntur red chillies, and cold-pressed sesame oil. Aged to perfection.",
+    "options": [
+      { "size": "300g Glass Jar", "price": 189, "originalPrice": 240, "inStock": true },
+      { "size": "500g Ceramic Jar", "price": 299, "originalPrice": 380, "inStock": true },
+      { "size": "1 kg Value Tub", "price": 549, "originalPrice": 699, "inStock": true }
+    ],
+    "highlights": ["Zero Preservatives or Vinegar", "Wood-Pressed Sesame Oil Base", "Medium-High Spicy Kick"],
+    "origin": "Vijayawada, Andhra Pradesh",
+    "shelfLife": "12 Months (Store in cool dry place)"
+  },
+  {
+    "id": "pickle-02",
+    "name": "Traditional Gongura Leaf Pickle",
+    "category": "pickles",
+    "tagline": "The Pride of Telugu Kitchens",
+    "rating": 4.9,
+    "reviewCount": 225,
+    "badge": "Traditional Special",
+    "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?w=800&auto=format&fit=crop&q=80",
+    "description": "Tangy sorrel (Gongura) leaves sauteed gently with aromatic garlic cloves, fenugreek, and crushed roasted red chillies. An unmatched companion for piping hot steamed rice and ghee.",
+    "options": [
+      { "size": "300g Jar", "price": 179, "originalPrice": 220, "inStock": true },
+      { "size": "500g Jar", "price": 279, "originalPrice": 350, "inStock": true },
+      { "size": "1 kg Pack", "price": 499, "originalPrice": 650, "inStock": true }
+    ],
+    "highlights": ["Rich in Iron & Antioxidants", "Tempered with Whole Garlic", "Authentic Village Taste"],
+    "origin": "Guntur, Andhra Pradesh",
+    "shelfLife": "9 Months"
+  },
+  {
+    "id": "pickle-03",
+    "name": "Country Tomato Garlic Pickle",
+    "category": "pickles",
+    "tagline": "Slow-Simmered with Golden Garlic",
+    "rating": 4.8,
+    "reviewCount": 180,
+    "badge": "Breakfast Favorite",
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+    "description": "Ripe country red tomatoes reduced slowly until thick and rich, tempered with crispy mustard seeds, curry leaves, and generous garlic cloves. Perfect with dosa, idli, or parathas.",
+    "options": [
+      { "size": "300g Jar", "price": 169, "originalPrice": 210, "inStock": true },
+      { "size": "500g Jar", "price": 269, "originalPrice": 330, "inStock": true }
+    ],
+    "highlights": ["Tangy & Savory Balance", "No Artificial Coloring", "Real Crushed Spices"],
+    "origin": "Madurai, Tamil Nadu",
+    "shelfLife": "9 Months"
+  },
+  {
+    "id": "pickle-04",
+    "name": "Sun-Aged Salted Lemon Pickle (Nimbu)",
+    "category": "pickles",
+    "tagline": "Matured in the Sunshine for 45 Days",
+    "rating": 4.7,
+    "reviewCount": 115,
+    "badge": "Oil-Free & Digestive",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&auto=format&fit=crop&q=80",
+    "description": "Thin-skinned juicy lemons aged under the natural Indian summer sun with rock salt, roasted cumin, and mild spices. Soft peel and deeply comforting digestive flavor.",
+    "options": [
+      { "size": "300g Jar", "price": 159, "originalPrice": 200, "inStock": true },
+      { "size": "500g Jar", "price": 249, "originalPrice": 310, "inStock": true }
+    ],
+    "highlights": ["Oil-Free & Probiotic Friendly", "Aged in Traditional Barnis", "Mild & Zesty"],
+    "origin": "Rajasthan",
+    "shelfLife": "18 Months"
+  },
+  {
+    "id": "oil-01",
+    "name": "Wood-Pressed (Chekku) Groundnut Oil",
+    "category": "cooking-oil",
+    "tagline": "Pure Wooden Churned Cold Pressed Oil",
+    "rating": 4.9,
+    "reviewCount": 380,
+    "badge": "Doctor Recommended",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&auto=format&fit=crop&q=80",
+    "description": "Extracted at low temperatures below 40°C in traditional Vaagai wood churners using premium naturally dried peanuts. Retains natural vitamin E, heart-friendly phytosterols, and deep nutty aroma.",
+    "options": [
+      { "size": "1 Litre Bottle", "price": 319, "originalPrice": 390, "inStock": true },
+      { "size": "2 Litres Pack", "price": 619, "originalPrice": 760, "inStock": true },
+      { "size": "5 Litres Eco-Tin", "price": 1499, "originalPrice": 1850, "inStock": true }
+    ],
+    "highlights": ["Single-Filtered (Unrefined)", "Zero Trans-Fats & Zero Hexane", "High Smoke Point for Frying"],
+    "origin": "Anantapur, Andhra Pradesh",
+    "shelfLife": "6 Months"
+  },
+  {
+    "id": "oil-02",
+    "name": "Cold-Pressed Pure Sesame (Til) Oil",
+    "category": "cooking-oil",
+    "tagline": "Traditional Gingelly Oil with Palm Jaggery",
+    "rating": 4.9,
+    "reviewCount": 210,
+    "badge": "Ayurvedic Heritage",
+    "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&auto=format&fit=crop&q=80",
+    "description": "Pressed from select black and brown sesame seeds with a touch of palm jaggery in wooden presses. The quintessential oil for tempering, gravies, and pickle preservation.",
+    "options": [
+      { "size": "1 Litre Glass Bottle", "price": 399, "originalPrice": 480, "inStock": true },
+      { "size": "5 Litres Tin", "price": 1899, "originalPrice": 2300, "inStock": true }
+    ],
+    "highlights": ["Loaded with Sesamol Antioxidants", "Unadulterated & Cold Pressed", "Essential for Pickling"],
+    "origin": "Thanjavur, Tamil Nadu",
+    "shelfLife": "9 Months"
+  },
+  {
+    "id": "oil-03",
+    "name": "Traditional Cold-Pressed Mustard Oil (Sarson)",
+    "category": "cooking-oil",
+    "tagline": "Pure Kacchi Ghani Pungent Oil",
+    "rating": 4.8,
+    "reviewCount": 195,
+    "badge": "Rich Aroma",
+    "image": "https://images.unsplash.com/photo-1627483262268-9c2b5b2834b5?w=800&auto=format&fit=crop&q=80",
+    "description": "Real first-press cold expelled brown mustard seeds with the signature natural punchy aroma. Imparts unbeatable flavor to curries, roasted vegetables, and north Indian delicacies.",
+    "options": [
+      { "size": "1 Litre Bottle", "price": 279, "originalPrice": 340, "inStock": true },
+      { "size": "5 Litres Can", "price": 1299, "originalPrice": 1600, "inStock": true }
+    ],
+    "highlights": ["High MUFA & PUFA Ratio", "Natural Antimicrobial Qualities", "First Cold Extraction"],
+    "origin": "Alwar, Rajasthan",
+    "shelfLife": "12 Months"
+  },
+  {
+    "id": "oil-04",
+    "name": "Extra Virgin Cold-Pressed Coconut Oil",
+    "category": "cooking-oil",
+    "tagline": "Extracted from Fresh Fresh Coconut Milk",
+    "rating": 5.0,
+    "reviewCount": 240,
+    "badge": "Pure & Edible",
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=800&auto=format&fit=crop&q=80",
+    "description": "Centrifuged cold extraction directly from fresh coconut meat. Crystal clear, mild sweet natural coconut scent. Superfood for keto cooking, raw drizzling, and healthy baking.",
+    "options": [
+      { "size": "500 ml Bottle", "price": 299, "originalPrice": 375, "inStock": true },
+      { "size": "1 Litre Jar", "price": 549, "originalPrice": 690, "inStock": true }
+    ],
+    "highlights": ["Rich in Lauric Acid & MCTs", "100% Edible & Raw Grade", "No Bleach, No Deodorization"],
+    "origin": "Kozhikode, Kerala",
+    "shelfLife": "12 Months"
+  }
+]

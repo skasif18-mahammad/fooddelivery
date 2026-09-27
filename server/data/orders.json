@@ -1,0 +1,231 @@
+[
+  {
+    "orderId": "NF-72576",
+    "createdAt": "2026-09-27T16:26:17.995Z",
+    "customer": {
+      "name": "sankar",
+      "phone": "9346837260",
+      "email": "niceseva@gmail.com",
+      "address": "pdtr",
+      "city": "pdtr",
+      "pincode": "518501",
+      "notes": "Please handle mangoes gently. Call upon reaching gate."
+    },
+    "items": [
+      {
+        "id": "pickle-04",
+        "name": "Sun-Aged Salted Lemon Pickle (Nimbu)",
+        "category": "pickles",
+        "size": "300g Jar",
+        "price": 159,
+        "originalPrice": 200,
+        "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&auto=format&fit=crop&q=80",
+        "quantity": 1
+      }
+    ],
+    "deliverySlot": "Express 45-60 Mins",
+    "paymentMethod": "Razorpay Online (UPI/Cards/NetBanking)",
+    "pricing": {
+      "subtotal": 159,
+      "deliveryFee": 49,
+      "discount": 0,
+      "couponCode": null,
+      "taxes": 8,
+      "totalAmount": 216
+    },
+    "deliveryPartner": {
+      "name": "Ramesh Kumar",
+      "phone": "+91 98480 22338",
+      "vehicle": "Eco Delivery Van (AP 29 BK 4092)",
+      "rating": 4.9
+    },
+    "estimatedDeliveryTime": "10:41 pm",
+    "manualStage": "confirmed"
+  },
+  {
+    "orderId": "NF-12493",
+    "createdAt": "2026-09-27T15:57:45.333Z",
+    "customer": {
+      "name": "sankar",
+      "phone": "9346837260",
+      "email": "niceseva@gmail.com",
+      "address": "pdtr",
+      "city": "pdtr",
+      "pincode": "518501",
+      "notes": "Please handle mangoes gently. Call upon reaching gate."
+    },
+    "items": [
+      {
+        "id": "oil-01",
+        "name": "Wood-Pressed (Chekku) Groundnut Oil",
+        "category": "cooking-oil",
+        "size": "1 Litre Bottle",
+        "price": 319,
+        "originalPrice": 390,
+        "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&auto=format&fit=crop&q=80",
+        "quantity": 1
+      }
+    ],
+    "deliverySlot": "Express 45-60 Mins",
+    "paymentMethod": "UPI Instant (GPay / PhonePe / QR)",
+    "pricing": {
+      "subtotal": 319,
+      "deliveryFee": 49,
+      "discount": 0,
+      "couponCode": null,
+      "taxes": 16,
+      "totalAmount": 384
+    },
+    "deliveryPartner": {
+      "name": "Ramesh Kumar",
+      "phone": "+91 98480 22338",
+      "vehicle": "Eco Delivery Van (AP 29 BK 4092)",
+      "rating": 4.9
+    },
+    "estimatedDeliveryTime": "10:12 pm",
+    "manualStage": "confirmed"
+  },
+  {
+    "orderId": "NF-58464",
+    "createdAt": "2026-09-27T15:54:05.465Z",
+    "customer": {
+      "name": "Ananya Sharma",
+      "phone": "9848022338",
+      "email": "ananya@gmail.com",
+      "address": "Flat 402, Green Meadows, Jubilee Hills Road No 36",
+      "city": "Hyderabad",
+      "pincode": "500033",
+      "notes": "Please handle mangoes gently. Call upon reaching gate."
+    },
+    "items": [
+      {
+        "id": "mango-01",
+        "name": "Banganapalli Sweet Mangoes",
+        "category": "mangoes",
+        "size": "3 kg Box",
+        "price": 499,
+        "originalPrice": 650,
+        "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=800&auto=format&fit=crop&q=80",
+        "quantity": 1
+      }
+    ],
+    "deliverySlot": "Express 45-60 Mins",
+    "paymentMethod": "Cash on Delivery (COD)",
+    "pricing": {
+      "subtotal": 499,
+      "deliveryFee": 0,
+      "discount": 0,
+      "couponCode": null,
+      "taxes": 25,
+      "totalAmount": 524
+    },
+    "deliveryPartner": {
+      "name": "Ramesh Kumar",
+      "phone": "+91 98480 22338",
+      "vehicle": "Eco Delivery Van (AP 29 BK 4092)",
+      "rating": 4.9
+    },
+    "estimatedDeliveryTime": "10:09 pm",
+    "manualStage": "confirmed"
+  },
+  {
+    "orderId": "NF-96990",
+    "createdAt": "2026-09-19T05:41:29.551Z",
+    "customer": {
+      "name": "Ananya Sharma",
+      "phone": "9848022338",
+      "email": "ananya@gmail.com",
+      "address": "Flat 402, Green Meadows, Jubilee Hills Road No 36",
+      "city": "Hyderabad",
+      "pincode": "500033",
+      "notes": "Please handle mangoes gently. Call upon reaching gate."
+    },
+    "items": [
+      {
+        "id": "mango-01",
+        "name": "Banganapalli Sweet Mangoes",
+        "category": "mangoes",
+        "size": "3 kg Box",
+        "price": 499,
+        "originalPrice": 650,
+        "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=800&auto=format&fit=crop&q=80",
+        "quantity": 1
+      }
+    ],
+    "deliverySlot": "Express 45-60 Mins",
+    "paymentMethod": "Cash on Delivery (COD)",
+    "pricing": {
+      "subtotal": 499,
+      "deliveryFee": 0,
+      "discount": 0,
+      "couponCode": null,
+      "taxes": 25,
+      "totalAmount": 524
+    },
+    "deliveryPartner": {
+      "name": "Suresh Reddy",
+      "phone": "+91 97001 54321",
+      "vehicle": "Express Two-Wheeler (TS 08 EF 7712)",
+      "rating": 4.8
+    },
+    "estimatedDeliveryTime": "11:56 am",
+    "manualStage": "confirmed"
+  },
+  {
+    "orderId": "NF-88210",
+    "createdAt": "2026-09-19T03:07:08.793Z",
+    "customer": {
+      "name": "Ananya Sharma",
+      "phone": "+91 98765 12345",
+      "email": "ananya@example.com",
+      "address": "Flat 402, Green Meadows, Jubilee Hills",
+      "city": "Hyderabad",
+      "pincode": "500033",
+      "notes": "Ring doorbell twice, leave with security if not reachable"
+    },
+    "items": [
+      {
+        "id": "mango-01",
+        "name": "Banganapalli Sweet Mangoes",
+        "size": "5 kg Family Crate",
+        "price": 799,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "pickle-01",
+        "name": "Grandma's Andhra Avakaya Mango Pickle",
+        "size": "500g Ceramic Jar",
+        "price": 299,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "oil-01",
+        "name": "Wood-Pressed (Chekku) Groundnut Oil",
+        "size": "1 Litre Bottle",
+        "price": 319,
+        "quantity": 2,
+        "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "deliverySlot": "Express Delivery (Under 45 Mins)",
+    "paymentMethod": "UPI (Google Pay)",
+    "pricing": {
+      "subtotal": 1736,
+      "deliveryFee": 0,
+      "discount": 174,
+      "couponCode": "NIKHILA10",
+      "taxes": 87,
+      "totalAmount": 1649
+    },
+    "deliveryPartner": {
+      "name": "Ramesh Kumar",
+      "phone": "+91 98480 22338",
+      "vehicle": "Eco Delivery Van (AP 29 BK 4092)",
+      "rating": 4.9
+    },
+    "estimatedDeliveryTime": "In 15 Mins",
+    "manualStage": "out_for_delivery"
+  }
+]
